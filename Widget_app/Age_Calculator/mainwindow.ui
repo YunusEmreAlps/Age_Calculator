@@ -17,8 +17,8 @@
    <widget class="QLineEdit" name="Born_Day">
     <property name="geometry">
      <rect>
-      <x>200</x>
-      <y>200</y>
+      <x>160</x>
+      <y>70</y>
       <width>100</width>
       <height>30</height>
      </rect>
@@ -36,8 +36,8 @@
    <widget class="QLineEdit" name="Born_Month">
     <property name="geometry">
      <rect>
-      <x>310</x>
-      <y>200</y>
+      <x>270</x>
+      <y>70</y>
       <width>100</width>
       <height>30</height>
      </rect>
@@ -52,8 +52,8 @@
    <widget class="QLineEdit" name="Born_Year">
     <property name="geometry">
      <rect>
-      <x>420</x>
-      <y>200</y>
+      <x>380</x>
+      <y>70</y>
       <width>100</width>
       <height>30</height>
      </rect>
@@ -71,8 +71,8 @@
    <widget class="QLineEdit" name="Today_Year">
     <property name="geometry">
      <rect>
-      <x>420</x>
-      <y>240</y>
+      <x>380</x>
+      <y>110</y>
       <width>100</width>
       <height>30</height>
      </rect>
@@ -90,8 +90,8 @@
    <widget class="QLineEdit" name="Today_Month">
     <property name="geometry">
      <rect>
-      <x>310</x>
-      <y>240</y>
+      <x>270</x>
+      <y>110</y>
       <width>100</width>
       <height>30</height>
      </rect>
@@ -106,8 +106,8 @@
    <widget class="QLineEdit" name="Today_Day">
     <property name="geometry">
      <rect>
-      <x>200</x>
-      <y>240</y>
+      <x>160</x>
+      <y>110</y>
       <width>100</width>
       <height>30</height>
      </rect>
@@ -122,8 +122,8 @@
    <widget class="QLabel" name="Day_info">
     <property name="geometry">
      <rect>
-      <x>200</x>
-      <y>160</y>
+      <x>160</x>
+      <y>30</y>
       <width>100</width>
       <height>30</height>
      </rect>
@@ -138,8 +138,8 @@
    <widget class="QLabel" name="Month_info">
     <property name="geometry">
      <rect>
-      <x>310</x>
-      <y>160</y>
+      <x>270</x>
+      <y>30</y>
       <width>100</width>
       <height>30</height>
      </rect>
@@ -154,8 +154,8 @@
    <widget class="QLabel" name="Year_info">
     <property name="geometry">
      <rect>
-      <x>420</x>
-      <y>160</y>
+      <x>380</x>
+      <y>30</y>
       <width>100</width>
       <height>30</height>
      </rect>
@@ -170,8 +170,8 @@
    <widget class="QLabel" name="Born_info">
     <property name="geometry">
      <rect>
-      <x>90</x>
-      <y>200</y>
+      <x>50</x>
+      <y>70</y>
       <width>100</width>
       <height>30</height>
      </rect>
@@ -186,8 +186,8 @@
    <widget class="QLabel" name="Today_info">
     <property name="geometry">
      <rect>
-      <x>90</x>
-      <y>240</y>
+      <x>50</x>
+      <y>110</y>
       <width>100</width>
       <height>30</height>
      </rect>
@@ -202,8 +202,8 @@
    <widget class="QLabel" name="Total_Minute_info">
     <property name="geometry">
      <rect>
-      <x>680</x>
-      <y>310</y>
+      <x>650</x>
+      <y>150</y>
       <width>100</width>
       <height>30</height>
      </rect>
@@ -218,8 +218,8 @@
    <widget class="QLabel" name="Total_Hour_info">
     <property name="geometry">
      <rect>
-      <x>680</x>
-      <y>270</y>
+      <x>650</x>
+      <y>110</y>
       <width>100</width>
       <height>30</height>
      </rect>
@@ -234,8 +234,8 @@
    <widget class="QLabel" name="Total_Second_info">
     <property name="geometry">
      <rect>
-      <x>680</x>
-      <y>350</y>
+      <x>650</x>
+      <y>190</y>
       <width>100</width>
       <height>30</height>
      </rect>
@@ -250,8 +250,8 @@
    <widget class="QLabel" name="Total_Days_info">
     <property name="geometry">
      <rect>
-      <x>680</x>
-      <y>390</y>
+      <x>650</x>
+      <y>230</y>
       <width>100</width>
       <height>30</height>
      </rect>
@@ -266,8 +266,8 @@
    <widget class="QLabel" name="Next_Birthday_info">
     <property name="geometry">
      <rect>
-      <x>680</x>
-      <y>550</y>
+      <x>650</x>
+      <y>390</y>
       <width>100</width>
       <height>30</height>
      </rect>
@@ -282,8 +282,8 @@
    <widget class="QLabel" name="Total_Months_info">
     <property name="geometry">
      <rect>
-      <x>680</x>
-      <y>470</y>
+      <x>650</x>
+      <y>310</y>
       <width>100</width>
       <height>30</height>
      </rect>
@@ -298,8 +298,8 @@
    <widget class="QLabel" name="Born_Day_info">
     <property name="geometry">
      <rect>
-      <x>680</x>
-      <y>510</y>
+      <x>650</x>
+      <y>350</y>
       <width>100</width>
       <height>30</height>
      </rect>
@@ -314,8 +314,8 @@
    <widget class="QLabel" name="Total_Weeks_info">
     <property name="geometry">
      <rect>
-      <x>680</x>
-      <y>430</y>
+      <x>650</x>
+      <y>270</y>
       <width>100</width>
       <height>30</height>
      </rect>
@@ -330,8 +330,8 @@
    <widget class="QLabel" name="Next_Born_Day_info">
     <property name="geometry">
      <rect>
-      <x>680</x>
-      <y>590</y>
+      <x>650</x>
+      <y>430</y>
       <width>100</width>
       <height>30</height>
      </rect>
@@ -346,8 +346,8 @@
    <widget class="QLabel" name="Next_Born_Day_info_2">
     <property name="geometry">
      <rect>
-      <x>680</x>
-      <y>630</y>
+      <x>650</x>
+      <y>470</y>
       <width>100</width>
       <height>30</height>
      </rect>
@@ -362,8 +362,8 @@
    <widget class="QLineEdit" name="Total_Hour">
     <property name="geometry">
      <rect>
-      <x>790</x>
-      <y>270</y>
+      <x>760</x>
+      <y>110</y>
       <width>100</width>
       <height>30</height>
      </rect>
@@ -381,8 +381,8 @@
    <widget class="QLineEdit" name="Total_Minute">
     <property name="geometry">
      <rect>
-      <x>790</x>
-      <y>310</y>
+      <x>760</x>
+      <y>150</y>
       <width>100</width>
       <height>30</height>
      </rect>
@@ -400,8 +400,8 @@
    <widget class="QLineEdit" name="Total_Days">
     <property name="geometry">
      <rect>
-      <x>790</x>
-      <y>390</y>
+      <x>760</x>
+      <y>230</y>
       <width>100</width>
       <height>30</height>
      </rect>
@@ -419,8 +419,8 @@
    <widget class="QLineEdit" name="Total_Second">
     <property name="geometry">
      <rect>
-      <x>790</x>
-      <y>350</y>
+      <x>760</x>
+      <y>190</y>
       <width>100</width>
       <height>30</height>
      </rect>
@@ -438,8 +438,8 @@
    <widget class="QLineEdit" name="Res_Born_Day">
     <property name="geometry">
      <rect>
-      <x>790</x>
-      <y>510</y>
+      <x>760</x>
+      <y>350</y>
       <width>100</width>
       <height>30</height>
      </rect>
@@ -457,8 +457,8 @@
    <widget class="QLineEdit" name="Total_Months">
     <property name="geometry">
      <rect>
-      <x>790</x>
-      <y>470</y>
+      <x>760</x>
+      <y>310</y>
       <width>100</width>
       <height>30</height>
      </rect>
@@ -476,8 +476,8 @@
    <widget class="QLineEdit" name="Next_BirthDay">
     <property name="geometry">
      <rect>
-      <x>790</x>
-      <y>550</y>
+      <x>760</x>
+      <y>390</y>
       <width>100</width>
       <height>30</height>
      </rect>
@@ -495,8 +495,8 @@
    <widget class="QLineEdit" name="Total_Weeks">
     <property name="geometry">
      <rect>
-      <x>790</x>
-      <y>430</y>
+      <x>760</x>
+      <y>270</y>
       <width>100</width>
       <height>30</height>
      </rect>
@@ -514,8 +514,8 @@
    <widget class="QLabel" name="Today_Year_info">
     <property name="geometry">
      <rect>
-      <x>570</x>
-      <y>590</y>
+      <x>540</x>
+      <y>430</y>
       <width>100</width>
       <height>30</height>
      </rect>
@@ -530,8 +530,8 @@
    <widget class="QLineEdit" name="Next_Born_Day_2">
     <property name="geometry">
      <rect>
-      <x>790</x>
-      <y>630</y>
+      <x>760</x>
+      <y>470</y>
       <width>100</width>
       <height>30</height>
      </rect>
@@ -546,8 +546,8 @@
    <widget class="QLineEdit" name="Next_Born_Day">
     <property name="geometry">
      <rect>
-      <x>790</x>
-      <y>590</y>
+      <x>760</x>
+      <y>430</y>
       <width>100</width>
       <height>30</height>
      </rect>
@@ -562,8 +562,8 @@
    <widget class="QPushButton" name="Calculate">
     <property name="geometry">
      <rect>
-      <x>530</x>
-      <y>240</y>
+      <x>490</x>
+      <y>110</y>
       <width>100</width>
       <height>30</height>
      </rect>
@@ -575,8 +575,8 @@
    <widget class="QLabel" name="Age_info">
     <property name="geometry">
      <rect>
-      <x>680</x>
-      <y>230</y>
+      <x>650</x>
+      <y>70</y>
       <width>100</width>
       <height>30</height>
      </rect>
@@ -591,8 +591,8 @@
    <widget class="QLineEdit" name="Age">
     <property name="geometry">
      <rect>
-      <x>790</x>
-      <y>230</y>
+      <x>760</x>
+      <y>70</y>
       <width>100</width>
       <height>30</height>
      </rect>
@@ -613,11 +613,14 @@
    <widget class="QLabel" name="Results">
     <property name="geometry">
      <rect>
-      <x>680</x>
-      <y>190</y>
+      <x>650</x>
+      <y>30</y>
       <width>100</width>
       <height>30</height>
      </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color:rgb(255, 0, 0);</string>
     </property>
     <property name="text">
      <string>Results</string>
@@ -629,8 +632,8 @@
    <widget class="QLabel" name="Next_Year_info">
     <property name="geometry">
      <rect>
-      <x>570</x>
-      <y>630</y>
+      <x>540</x>
+      <y>470</y>
       <width>100</width>
       <height>30</height>
      </rect>
@@ -645,8 +648,8 @@
    <widget class="QLabel" name="Different_info">
     <property name="geometry">
      <rect>
-      <x>90</x>
-      <y>280</y>
+      <x>50</x>
+      <y>150</y>
       <width>100</width>
       <height>30</height>
      </rect>
@@ -661,8 +664,8 @@
    <widget class="QLineEdit" name="Different_Month">
     <property name="geometry">
      <rect>
-      <x>310</x>
-      <y>280</y>
+      <x>270</x>
+      <y>150</y>
       <width>100</width>
       <height>30</height>
      </rect>
@@ -680,8 +683,8 @@
    <widget class="QLineEdit" name="Different_Year">
     <property name="geometry">
      <rect>
-      <x>420</x>
-      <y>280</y>
+      <x>380</x>
+      <y>150</y>
       <width>100</width>
       <height>30</height>
      </rect>
@@ -702,8 +705,8 @@
    <widget class="QLineEdit" name="Different_Day">
     <property name="geometry">
      <rect>
-      <x>200</x>
-      <y>280</y>
+      <x>160</x>
+      <y>150</y>
       <width>100</width>
       <height>30</height>
      </rect>
@@ -716,6 +719,54 @@
     </property>
     <property name="placeholderText">
      <string>Different Day</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="Horoscope">
+    <property name="geometry">
+     <rect>
+      <x>760</x>
+      <y>510</y>
+      <width>100</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+    <property name="readOnly">
+     <bool>true</bool>
+    </property>
+    <property name="placeholderText">
+     <string>Horoscope</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="Horoscope_info">
+    <property name="geometry">
+     <rect>
+      <x>650</x>
+      <y>510</y>
+      <width>100</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Horoscope</string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>260</x>
+      <y>360</y>
+      <width>91</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
     </property>
    </widget>
   </widget>
